@@ -1,7 +1,5 @@
 # explab
 
-Documentação e download atualizados em: https://www.italoinfo.com.br/projetos/explab
-
 <p>O ExpLab é um interpretador e linguagem de programação interpretada, orientada a objetos e a matemática. Ela suporta as estruturas básicas de uma linguagem de programação OO como, por exemplo, os comandos: SE, COMPARE/CASO, ENQUANTO, PARA... inclusive, também suporta definição e chamada de funções, expressões aritméticas e booleans, classes, objetos como variáveis instâncias de classes, herança de classes, tratamento de exceções, organização das classes em pacotes, etc. Inclusive, como linguagem de programação orientada a matemática, a linguagem ExpLab tem suporte a operações com vetores e matrizes e plotagem e visualização de dados e funções matemáticas em 2D e 3D.</p>
 
 <p>Trata-se de um software semelhante a outros já consagrados como: MatLab, SciLab e GNU Octave.</p>
